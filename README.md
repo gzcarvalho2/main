@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Análise e Desenvolvimento de Sistemas pela faculdade SENAC RJ<br><br>Em constante evolução
+Estudante de Análise e Desenvolvimento de Sistemas pela faculdade SENAC RJ<br><br>Código é poesia em execução.
 
 
 ## 🌐 Socials:
